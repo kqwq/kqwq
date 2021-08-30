@@ -11,7 +11,7 @@ Also familiar with Kotlin and Visual Basic.
 #### Web technologies
 
 Frontend
-- SvelteJS, React.js, SASS, Bootstrap 4, jQuery (please don't use jQuery in 2021)
+- SvelteJS, React.js, Sass, Bootstrap, jQuery (please don't use jQuery in 2021)
 
 Stack
 - RESTful API, MongoDB, MySQL, Docker
