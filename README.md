@@ -4,11 +4,21 @@ Main account: https://github.com/githubium
 
 ### Languages
 
-- C/C++, C#, Java, Python, JavaScript
+- C/C++, C#, Java, Python, JavaScript/TypeScript
 
-Also familiar with Kotlin, Visual Basic, and PHP.
+Also familiar with Kotlin and Visual Basic.
 
-Look, here's a little widget that doesn't account for private repos!
+#### Web technologies
+
+Frontend
+- SvelteJS, React.js, SASS, Bootstrap 4, jQuery (please don't use jQuery in 2021)
+
+Stack
+- RESTful API, MongoDB, MySQL, Docker
+
+#### Game developement
+
+- Unity3D, WebGL, Pygame, [p5.js](https://p5js.org/), [Processing](https://processing.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqwq)](https://github.com/anuraghazra/github-readme-stats)
 
