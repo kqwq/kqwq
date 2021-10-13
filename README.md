@@ -1,10 +1,9 @@
 ## kqwq
-![Profile views](https://gpvc.arturio.dev/kqwq)  
 Main account: https://github.com/githubium
 
 ### Languages
 
-`Web` Svelte, React, SASS, Bootstrap 4, jQuery, TypeScript, WebRTC<br>
+`Web` Svelte, React, Sass, Bootstrap 4, jQuery, TypeScript, WebRTC<br>
 `Backend` Node, Python, C++<br>
 `Database` Sqlite, MongoDB<br>
 `Android app dev` Java, Kotlin<br>
