@@ -1,27 +1,21 @@
-## KQWQ
+## kqwq
 ![Profile views](https://gpvc.arturio.dev/kqwq)  
 Main account: https://github.com/githubium
 
 ### Languages
 
-- C/C++, C#, Java, Python, JavaScript/TypeScript
+`Web` Svelte, React, SASS, Bootstrap 4, jQuery, TypeScript, WebRTC<br>
+`Backend` Node, Python, C++<br>
+`Database` Sqlite, MongoDB<br>
+`Android app dev` Java, Kotlin<br>
+`Game dev` Unity / C#
 
-Also familiar with Kotlin and Visual Basic.
-
-#### Web technologies
-
-Frontend
-- SvelteJS, React.js, Sass, Bootstrap, jQuery (please don't use bs or jQuery in 2021)
-
-Stack
-- RESTful API, MongoDB, MySQL, Docker
-
-#### Game developement
-
-- Unity3D, WebGL, Pygame, [p5.js](https://p5js.org/), [Processing](https://processing.org/)
+`Best JS libraries` [p5](https://p5js.org/), [three](https://threejs.org/), [d3](https://d3js.org/), [simple-peer](https://www.npmjs.com/package/simple-peer)<br>
+`Preferred tech stack` MESN (Mongo Express Svelte Node)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqwq)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatct
+### Contact
 
-kylew864@gmail.com (also via Slack)
+`Discord` kqwq#6389<br>
+`Email` kylew864@gmail.com (also via Slack)
