@@ -1,18 +1,33 @@
 ## kqwq
-Main account: https://github.com/githubium<br>
-Website: ...
+Hello welcome to my GitHub! I'm Kyle, a full fullstack developer.\
+Second account for nerds: https://github.com/githubium<br>
+Website: https://kqwq.me (In progress)
+
 
 ### Languages
+I have experience with\
+`Web Framework` Webpack 4/5, React, Next, Svelte, jQuery\
+`Web Style` Material, Chakra UI, TailwindCSS, Bootstrap 5, Sass\
+`Web Library` three.js, p5.js, socket.io, moment.js, express\
+`Backend` JavaScript (Node, Deno, and/or TypeScript), Python\
+`Database` Redis, MongoDB, SQL\
+`Data Analysis` selenium, matplotlib, scipy, pandas, numpy\
+`Responsive Data Vis` d3.js, three.js, globe.gl, Google Charts\
+`Mobile apps` Dart (flutter), Java,\
+`Game dev` Unity / C#\
+\
+I have limited or no experience with\
+`Learning` Visual Basic, C++, Kotlin, Swift, Rust, PHP
 
-`Web` Svelte, React, Sass, Bootstrap 4, jQuery, TypeScript, WebRTC<br>
-`Backend` Node, Python, C++<br>
-`Database` Sqlite, MongoDB<br>
-`Android app dev` Java, Kotlin<br>
-`Game dev` Unity / C#
+Most apps have multiple scopes. I often use\
+`Preferred tech stack` MERN (MongoDB, Express, React, Node)\
+`Favorite JS libraries` [p5](https://p5js.org/), [three](https://threejs.org/), [d3](https://d3js.org/), [simple-peer](https://www.npmjs.com/package/simple-peer)
+<details><summary>Breakdown
+</summary>
 
-`Favorite JS libraries` [p5](https://p5js.org/), [three](https://threejs.org/), [d3](https://d3js.org/), [simple-peer](https://www.npmjs.com/package/simple-peer)<br>
-`Preferred tech stack` MERN (MongoDB, Express, React, Node)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqwq)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqwq)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 
 ### Contact
 `Discord` kqwq#6389<br>
