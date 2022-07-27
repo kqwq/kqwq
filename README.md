@@ -6,22 +6,13 @@ Website: https://kqwq.me (In progress)
 
 ### Languages
 I have experience with\
-`Web Framework` Webpack 4/5, React, Next, Svelte, jQuery\
-`Web Style` Material, Chakra UI, TailwindCSS, Bootstrap 5, Sass\
-`Web Library` three.js, p5.js, socket.io, moment.js, express\
-`Backend` JavaScript (Node, Deno, and/or TypeScript), Python\
-`Database` Redis, MongoDB, SQL\
-`Data Analysis` selenium, matplotlib, scipy, pandas, numpy\
-`Responsive Data Vis` d3.js, three.js, globe.gl, Google Charts\
+`Web Framework` Webpack, React, Next, Svelte\
+`Web Style` Material, Chakra UI, TailwindCSS, Bootstrap\
+`Web Library` three.js, d3.js, p5.js, socket.io\
+`Database` Redis, MongoDB, SQL\\
 `Mobile apps` Dart (flutter), Java,\
 `Game dev` Unity / C#\
 \
-I have limited or no experience with\
-`Learning` Visual Basic, C++, Kotlin, Swift, Rust, PHP
-
-Most apps have multiple scopes. I often use\
-`Preferred tech stack` MERN (MongoDB, Express, React, Node)\
-`Favorite JS libraries` [p5](https://p5js.org/), [three](https://threejs.org/), [d3](https://d3js.org/), [simple-peer](https://www.npmjs.com/package/simple-peer)
 <details><summary>Breakdown
 </summary>
 
