@@ -1,5 +1,5 @@
 ## kqwq
-Hello welcome to my GitHub! I'm Kyle, a full fullstack developer.\
+Hello welcome to my GitHub! I'm Kyle, a fullstack developer.\
 Second account for nerds: https://github.com/githubium<br>
 Website: https://kqwq.me (In progress)
 
