@@ -12,7 +12,7 @@ I have experience with\
 `Database` Redis, MongoDB, SQL\\
 `Mobile apps` Dart (flutter), Java,\
 `Game dev` Unity / C#\
-\
+
 <details><summary>Breakdown
 </summary>
 
