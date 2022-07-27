@@ -10,7 +10,7 @@ I have experience with\
 `Web Style` Material, Chakra UI, TailwindCSS, Bootstrap\
 `Web Library` three.js, d3.js, p5.js, socket.io\
 `Database` Redis, MongoDB, SQL\
-`Mobile apps` Dart (flutter), Java,\
+`Mobile apps` Dart (flutter), Java\
 `Game dev` Unity / C#
 
 <details><summary>Breakdown
