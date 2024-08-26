@@ -1,17 +1,15 @@
 ## kqwq
 Hello welcome to my GitHub! I'm Kyle, a fullstack developer.\
 Second account for nerds: https://github.com/githubium<br>
-Website: https://kqwq.me (In progress)
+Website: https://kyle.ro
 
 
 ### Languages
 I have experience with\
-`Web Framework` Webpack, React, Next, Svelte\
-`Web Style` Material, Chakra UI, TailwindCSS, Bootstrap\
-`Web Library` three.js, d3.js, p5.js, socket.io\
-`Database` Redis, MongoDB, SQL\
-`Mobile apps` Dart (flutter), Java\
-`Game dev` Unity / C#
+**Languages:** TypeScript, JavaScript, Python, HTML/CSS, SQL, C/C++, Java, C#, PHP, R<br>
+**Frameworks:** Svelte, Next.js, Webpack, React, React Native<br>
+**Developer Tools:** Docker, Git, GitHub Actions, Firebase, VS Code, Visual Studio, Figma<br>
+**Libraries:** Three.js, MongoDB, GraphQL, Express.js, Selenium, jQuery, Material UI, Tailwind CSS<br>
 
 <details><summary>Breakdown
 </summary>
@@ -21,7 +19,7 @@ I have experience with\
 
 
 ### Contact
-`Discord` kqwq#6389<br>
+`Discord` @kqwq<br>
 `Email` 
 
 <details><summary>Test</summary>
