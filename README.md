@@ -20,7 +20,7 @@ I have experience with\
 
 ### Contact
 `Discord` @kqwq<br>
-`Email` <ask me on Discord>
+`Email` ask me on Discord
 
 <details><summary>Test</summary>
 https://github.com/kqwq/morse-code-test
