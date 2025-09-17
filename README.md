@@ -8,8 +8,8 @@ Website: https://kyle.ro
 I have experience with\
 **Languages:** TypeScript, JavaScript, Python, HTML/CSS, SQL, C/C++, Java, C#, PHP, R<br>
 **Frameworks:** Svelte, Next.js, Webpack, React, React Native<br>
-**Developer Tools:** Docker, Git, GitHub Actions, Firebase, VS Code, Visual Studio, Figma<br>
-**Libraries:** Three.js, MongoDB, GraphQL, Express.js, Selenium, jQuery, Material UI, Tailwind CSS<br>
+**Developer Tools:** Docker, Git, VS Code, Cursor, Figma<br>
+**Libraries:** Three.js, MongoDB, GraphQL, Express.js, EJS, Selenium, jQuery, Material UI, Tailwind CSS<br>
 
 <details><summary>Breakdown
 </summary>
